@@ -1,4 +1,4 @@
-apt-get update; apt-get upgrade -y; apt-get install curl socat git -y 
+apt-get update; apt-get upgrade -y; apt-get install curl socat nano git -y 
 
 curl -fsSL https://get.docker.com | sh
 
